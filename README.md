@@ -1,92 +1,70 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366f1&center=true&vCenter=true&width=435&lines=Sophia+Ononogbu;Full-Stack+React+Developer;Tech+Community+Host;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
-</div>
+# Getting Started with Create React App
 
-<div align="center">
-  <h1>🚀 My Developer Portfolio</h1>
-  <p>
-    <strong>Built with React.js, Tailwind CSS, and Modern UI Principles.</strong>
-  </p>
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-  <a href="https://x.com/sophia0_dev">
-    <img src="https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/sophia-ononogbu-013983334">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
+## Available Scripts
 
----
+In the project directory, you can run:
 
-### 📖 About This Project
-This repository houses my personal portfolio website. It serves as a central hub to demonstrate my technical skills in **Frontend Architecture**, **State Management**, and **Responsive Design**.
+### `npm start`
 
-The site is built as a Single Page Application (SPA) using **React**, featuring a custom Dark Mode UI, glassmorphism effects, and a mobile-first grid layout.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
----
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-### ⚡ The Tech Stack
-This project (and my general workflow) relies on these powerful tools:
+### `npm test`
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend Core** | ![React](https://img.shields.io/badge/-React-20232a?style=flat&logo=react&logoColor=61DAFB) ![JS](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
-| **Styling & UI** | ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
-| **Backend & Tools** | ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white) |
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
----
+### `npm run build`
 
-### 📂 Featured Projects Showcase
-Detailed within this portfolio are my key projects:
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-* **✅ TaskFlow App:** A comprehensive productivity suite featuring a Todo list, Life Progress tracker, and CGPA calculator.
-* **🏘️ Roamtic Website:** A high-conversion real estate landing page system with responsive grid layouts.
-* **✍️ Signature Generator:** An interactive tool using the Canvas API to create and download digital signatures.
-* **🎮 Rock Paper Scissors:** A game logic showcase with DOM-based animations and score tracking.
-* **🔒 Input Validation System:** A security-focused form handler using RegEx for data integrity.
-* **📝 Personal Blog:** A Markdown-based platform for sharing technical tutorials.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
----
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### 🎙️ Community Leadership
-Beyond code, I am active in the tech ecosystem:
-* **Assistant Team Lead @ Roar Nigeria Hub:** Managing developer workflows and peer mentorship.
-* **Host @ X (Twitter) Spaces:** Leading weekly discussions on Web Development trends.
-* **Ambassador @ Cowrywise & ICSC:** Driving digital and financial literacy among students.
+### `npm run eject`
 
----
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-### 🛠️ How to Run This Locally
-If you'd like to view the source code or run the portfolio on your machine:
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-1.  **Clone the repository**
-    ```bash
-    git clone [https://github.com/sophia0-dev/my-portfolio.git](https://github.com/sophia0-dev/my-portfolio.git)
-    ```
-2.  **Navigate to the directory**
-    ```bash
-    cd my-portfolio
-    ```
-3.  **Install Dependencies**
-    ```bash
-    npm install
-    ```
-4.  **Start the Server**
-    ```bash
-    npm start
-    ```
-    *Open [http://localhost:3000](http://localhost:3000) to view it in the browser.*
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
----
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-### 📫 Contact Me
-* **Email:** sophiaononogbu@gmail.com
-* **GitHub:** [@sophia0-dev](https://github.com/sophia0-dev)
-* **Twitter:** [@sophia0_dev](https://x.com/sophia0_dev)
+## Learn More
 
----
-<p align="center">
-  <i>Built with ❤️ and React by Sophia Ononogbu.</i>
-</p>
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
